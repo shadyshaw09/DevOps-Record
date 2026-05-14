@@ -1,0 +1,55 @@
+# Day 27
+
+## Experiment Title
+
+Managing Docker Compose Containers and Services
+
+
+## Objective
+
+To learn how to manage and monitor containers and services created using Docker Compose.
+
+
+## Theory
+
+Docker Compose provides commands to start, stop, restart, and monitor multiple containers together. It helps users manage application services efficiently from a single interface.
+
+Using Docker Compose, users can inspect running containers, view logs, restart services, and remove unused resources. Proper container management improves application maintenance and troubleshooting.
+
+
+## Requirements
+
+Docker Desktop
+
+Docker Compose
+
+Windows Operating System
+
+
+## Procedure
+
+Open Docker Desktop and verify that Docker services are running.
+
+Start the Docker Compose application.
+
+View the list of running containers and active services.
+
+Monitor container logs and application activity.
+
+Restart selected services and observe the changes.
+
+Stop and remove the Docker Compose application after completion.
+
+
+## Output
+
+Docker Compose services were successfully managed and monitored.
+
+Container logs and service information were displayed correctly.
+
+Application services were restarted and controlled successfully.
+
+
+## Result
+
+Successfully learned how to manage and monitor Docker Compose containers and services.
