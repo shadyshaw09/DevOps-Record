@@ -1,0 +1,53 @@
+# Day 34
+
+## Experiment Title
+
+Compiling and Building a Maven Project
+
+
+## Objective
+
+To understand how Maven is used to compile and build Java applications.
+
+
+## Theory
+
+Maven provides a build lifecycle that automates the process of compiling source code, testing applications, and generating executable packages. The build process ensures that all dependencies are managed properly before application execution.
+
+Maven simplifies project compilation by automatically handling libraries and build configurations defined in the pom.xml file.
+
+
+## Requirements
+
+Java Development Kit
+
+Apache Maven
+
+Windows Operating System
+
+
+## Procedure
+
+Open the command prompt inside the Maven project directory.
+
+Verify that the project configuration is correct.
+
+Run the Maven build process for the application.
+
+Observe the compilation and build process.
+
+Check the generated build files inside the target directory.
+
+
+## Output
+
+The Maven project was compiled successfully.
+
+Build files were generated successfully inside the target directory.
+
+The build process completed without errors.
+
+
+## Result
+
+Successfully compiled and built a Java application using Apache Maven.
