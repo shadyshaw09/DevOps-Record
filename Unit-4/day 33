@@ -1,0 +1,53 @@
+# Day 33
+
+## Experiment Title
+
+Understanding Maven Project Structure and POM File
+
+
+## Objective
+
+To study the structure of a Maven project and understand the purpose of the pom.xml file.
+
+
+## Theory
+
+A Maven project follows a standard directory structure which helps developers organize source code, test files, resources, and build outputs efficiently.
+
+The pom.xml file is the core configuration file of a Maven project. It contains project details, dependencies, plugins, build configurations, and version information. Maven uses this file to manage the complete build lifecycle of the application.
+
+
+## Requirements
+
+Java Development Kit
+
+Apache Maven
+
+Windows Operating System
+
+
+## Procedure
+
+Open the Maven project directory.
+
+Study the standard folder structure of the Maven project.
+
+Locate and open the pom.xml configuration file.
+
+Observe project information, dependencies, and plugin configurations.
+
+Understand how Maven manages the project using the pom.xml file.
+
+
+## Output
+
+The Maven project structure was studied successfully.
+
+The pom.xml file was analyzed successfully.
+
+Project dependencies and build configurations were understood properly.
+
+
+## Result
+
+Successfully understood the Maven project structure and the role of the pom.xml configuration file.
