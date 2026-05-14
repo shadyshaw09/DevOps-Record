@@ -1,0 +1,57 @@
+# Day 24
+
+## Experiment Title
+
+Working with Docker Volumes in Docker Compose
+
+
+## Objective
+
+To understand the use of Docker volumes for persistent data storage in Docker Compose applications.
+
+
+## Theory
+
+Docker volumes are used to store data permanently outside the container filesystem. They help in preserving application data even when containers are stopped or removed.
+
+In Docker Compose, volumes can be defined inside the YAML configuration file and attached to containers easily. Volumes are commonly used with databases and applications that require persistent storage.
+
+Using volumes improves data management and prevents data loss during container recreation.
+
+
+## Requirements
+
+Docker Desktop
+
+Docker Compose
+
+Windows Operating System
+
+
+## Procedure
+
+Open Docker Desktop and ensure that Docker services are running properly.
+
+Create a Docker Compose configuration file withh volume settings.
+
+Attach the volume to the required container service.
+
+Start the Docker Compose application.
+
+Verify that the Docker volume has been created successfully.
+
+Stop and restart the containers to check data persistence.
+
+
+## Output
+
+Docker volume was created successfully using Docker Compose.
+
+Application data remained stored even after restarting the containers.
+
+Persistent storage was successfully implemented.
+
+
+## Result
+
+Successfully learned how to use Docker volumes for persistent storage in Docker Compose applications.
