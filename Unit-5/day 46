@@ -1,0 +1,57 @@
+# Day 46
+
+## Experiment Title
+
+Monitoring Workflow Execution in GitHub Actions
+
+
+## Objective
+
+To study workflow execution monitoring and analyze workflow logs in GitHub Actions.
+
+
+## Theory
+
+GitHub Actions provides monitoring features that allow developers to observe workflow execution, build status, testing activity, and deployment processes. Workflow logs help developers identify errors and troubleshoot issues during automation.
+
+Monitoring workflows improves software reliability and ensures that Continuous Integration and deployment tasks execute correctly.
+
+
+## Requirements
+
+GitHub Account
+
+GitHub Repository
+
+GitHub Actions
+
+Windows Operating System
+
+
+## Procedure
+
+Open the GitHub repository.
+
+Access the GitHub Actions section.
+
+Observe workflow execution details and build status.
+
+Analyze workflow logs generated during execution.
+
+Identify successful and failed workflow stages.
+
+Verify the completion status of automated tasks.
+
+
+## Output
+
+Workflow execution details were monitored successfully.
+
+GitHub Actions displayed logs and automation activity correctly.
+
+Workflow status and execution stages were verified successfully.
+
+
+## Result
+
+Successfully monitored workflow execution and analyzed logs in GitHub Actions.
