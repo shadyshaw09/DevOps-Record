@@ -1,0 +1,57 @@
+# Day 52
+
+## Experiment Title
+
+Automating Testing using Jenkins Pipelines
+
+
+## Objective
+
+To understand how testing processes can be automated using Jenkins pipelines.
+
+
+## Theory
+
+Jenkins pipelines support automated testing as part of Continuous Integration workflows. Automated testing helps developers identify errors early during software development and improves application reliability.
+
+Testing stages can be added inside Jenkins pipelines to automatically execute test cases whenever code changes occur in the project repository.
+
+
+## Requirements
+
+Jenkins
+
+Java Development Kit
+
+GitHub Repository
+
+Windows Operating System
+
+
+## Procedure
+
+Open the Jenkins dashboard.
+
+Access the existing Jenkins pipeline project.
+
+Configure automated testing stages inside the pipeline.
+
+Save the updated pipeline configuration.
+
+Execute the pipeline and observe testing activity.
+
+Verify testing results and pipeline execution logs.
+
+
+## Output
+
+Automated testing was executed successfully using Jenkins pipelines.
+
+Pipeline stages completed successfully during workflow execution.
+
+Testing results and execution logs were displayed correctly.
+
+
+## Result
+
+Successfully automated application testing using Jenkins pipelines.
