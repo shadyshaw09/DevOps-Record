@@ -1,0 +1,55 @@
+# Day 29
+
+## Experiment Title
+
+Deploying WordPress and MySQL using Docker Compose
+
+
+## Objective
+
+To deploy a WordPress application with a MySQL database using Docker Compose.
+
+
+## Theory
+
+Docker Compose allows multiple related services to be deployed together in a single application environment. WordPress requires a web server and a database service for proper functionality.
+
+Using Docker Compose, both WordPress and MySQL containers can be configured and managed together through a single YAML configuration file. Docker networking enables communication between the application and database containers automatically.
+
+
+## Requirements
+
+Docker Desktop
+
+Docker Compose
+
+Windows Operating System
+
+
+## Procedure
+
+Open Docker Desktop and ensure that Docker services are running properly.
+
+Create a Docker Compose configuration file for WordPress and MySQL services.
+
+Configure database credentials and required ports.
+
+Start the application using Docker Compose.
+
+Verify that both containers are running successfully.
+
+Open the browser and access the WordPress application.
+
+
+## Output
+
+WordPress and MySQL containers were deployed successfully using Docker Compose.
+
+The application and database containers communicated properly through Docker networking.
+
+The WordPress application was accessible successfully through the browser.
+
+
+## Result
+
+Successfully deployed and managed a WordPress application with MySQL using Docker Compose.
