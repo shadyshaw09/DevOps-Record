@@ -1,0 +1,57 @@
+# Day 23
+
+## Experiment Title
+
+Understanding Docker Compose Services and Networking
+
+
+## Objective
+
+To study the working of services and networking in Docker Compose applications.
+
+
+## Theory
+
+In Docker Compose, services are used to define individual containers that work together as part of an application. Each service can run a different component such as a frontend server, backend server, or database.
+
+Docker Compose automatically creates a bridge network for communication between containers. Containers inside the same Docker Compose project can communicate using their service names without requiring manual IP configuration.
+
+This networking feature makes application deployment easier and improves communication between different services.
+
+
+## Requirements
+
+Docker Desktop
+
+Docker Compose
+
+Windows Operating System
+
+
+## Procedure
+
+Open Docker Desktop and verify that Docker services are running.
+
+Create a Docker Compose configuration file with multiple services.
+
+Start the Docker Compose application.
+
+Check the list of created Docker networks.
+
+Inspect the default network created by Docker Compose.
+
+Verify that all containers are connected through the same network.
+
+
+## Output
+
+Docker Compose successfully created a default bridge network.
+
+Containers were connected successfully through the Docker network.
+
+Communication between services was established properly.
+
+
+## Result
+
+Successfully understood Docker Compose services and networking concepts.
