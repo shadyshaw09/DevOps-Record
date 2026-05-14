@@ -1,0 +1,57 @@
+# Day 48
+
+## Experiment Title
+
+Creating and Managing Jenkins Freestyle Projects
+
+
+## Objective
+
+To understand how freestyle projects are created and managed in Jenkins.
+
+
+## Theory
+
+Freestyle projects are one of the basic project types available in Jenkins. They allow users to configure and automate build tasks through a graphical interface without requiring complex pipeline scripts.
+
+Freestyle projects support source code management, build triggers, build steps, and post build actions. They are commonly used for simple Continuous Integration tasks and automation processes.
+
+
+## Requirements
+
+Jenkins
+
+Java Development Kit
+
+Docker Desktop
+
+Windows Operating System
+
+
+## Procedure
+
+Open the Jenkins dashboard through the web browser.
+
+Create a new freestyle project in Jenkins.
+
+Configure project details and build settings.
+
+Add source code management and build steps.
+
+Save the project configuration.
+
+Execute the build process and observe the build status.
+
+
+## Output
+
+The Jenkins freestyle project was created successfully.
+
+Build execution completed successfully in Jenkins.
+
+Project configuration and build details were displayed correctly.
+
+
+## Result
+
+Successfully created and managed freestyle projects in Jenkins.
