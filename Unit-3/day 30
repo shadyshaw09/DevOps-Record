@@ -1,0 +1,55 @@
+# Day 30
+
+## Experiment Title
+
+Creating a Node.js and MongoDB Application using Docker Compose
+
+
+## Objective
+
+To understand how Docker Compose can be used to deploy a Node.js application with a MongoDB database service.
+
+
+## Theory
+
+Modern applications often use multiple services working together. Docker Compose simplifies the deployment of such applications by allowing all services to be configured inside a single YAML file.
+
+A Node.js application can communicate with a MongoDB database container through Docker networking. Docker Compose automatically manages service communication, container creation, and application execution.
+
+
+## Requirements
+
+Docker Desktop
+
+Docker Compose
+
+Windows Operating System
+
+
+## Procedure
+
+Open Docker Desktop and verify that Docker services are running properly.
+
+Create a Docker Compose configuration file for Node.js and MongoDB services.
+
+Configure the required application and database settings.
+
+Start the Docker Compose application.
+
+Verify that both containers are running successfully.
+
+Check the communication between the Node.js application and MongoDB database.
+
+
+## Output
+
+Node.js and MongoDB containers were deployed successfully using Docker Compose.
+
+The application connected successfully with the MongoDB database container.
+
+Docker Compose managed container communication and execution properly.
+
+
+## Result
+
+Successfully created and deployed a Node.js and MongoDB application using Docker Compose.
