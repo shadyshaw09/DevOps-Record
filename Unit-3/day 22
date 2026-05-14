@@ -1,0 +1,55 @@
+# Day 22
+
+## Experiment Title
+
+Creating a Multi Container Application using Docker Compose
+
+
+## Objective
+
+To understand how Docker Compose can be used to create and manage multiple containers together in a single application environment.
+
+
+## Theory
+
+Docker Compose allows users to run multiple containers simultaneously by defining services inside a docker-compose.yml file. Each service represents a separate container such as a web server, database, or backend application.
+
+Docker Compose automatically creates a network between containers so that services can communicate with each other easily. It simplifies the deployment and management of multi container applications.
+
+
+## Requirements
+
+Docker Desktop
+
+Docker Compose
+
+Windows Operating System
+
+
+## Procedure
+
+Open Docker Desktop and ensure that Docker services are running properly.
+
+Create a docker-compose.yml file containing multiple services.
+
+Configure the required images and ports for each service.
+
+Start the multi container application using Docker Compose.
+
+Verify that all containers are running successfully.
+
+Observe the communication between the containers through Docker networking.
+
+
+## Output
+
+Multiple containers were successfully created and executed using Docker Compose.
+
+NGINX and Redis containers were running together inside the same application environment.
+
+Docker Compose automatically managed the networking between both containers.
+
+
+## Result
+
+Successfully created and managed a multi container application using Docker Compose.
