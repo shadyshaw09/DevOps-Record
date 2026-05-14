@@ -1,0 +1,55 @@
+# Day 47
+
+## Experiment Title
+
+Introduction to Jenkins and Continuous Integration
+
+
+## Objective
+
+To understand the basics of Jenkins and study its role in Continuous Integration and automation.
+
+
+## Theory
+
+Jenkins is an open source automation server used for Continuous Integration and Continuous Deployment. It helps developers automate tasks such as application building, testing, and deployment.
+
+Jenkins supports plugins and pipelines that simplify software development workflows. It improves development efficiency by automatically executing tasks whenever code changes occur in the project repository.
+
+
+## Requirements
+
+Jenkins
+
+Java Development Kit
+
+Docker Desktop
+
+Windows Operating System
+
+
+## Procedure
+
+Install Jenkins on the system or run Jenkins using Docker.
+
+Open the Jenkins dashboard through the web browser.
+
+Study the Jenkins user interface and available options.
+
+Understand the role of Jenkins in Continuous Integration.
+
+Observe Jenkins services and system configuration.
+
+
+## Output
+
+Jenkins was installed and configured successfully.
+
+The Jenkins dashboard was accessed successfully through the browser.
+
+Continuous Integration concepts using Jenkins were studied successfully.
+
+
+## Result
+
+Successfully understood the basics of Jenkins and Continuous Integration.
