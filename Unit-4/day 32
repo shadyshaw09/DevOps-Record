@@ -1,0 +1,53 @@
+# Day 32
+
+## Experiment Title
+
+Introduction to Maven and Build Automation
+
+
+## Objective
+
+To understand the basics of Apache Maven and study the process of build automation in Java applications.
+
+
+## Theory
+
+Apache Maven is a project management and build automation tool mainly used for Java applications. It helps developers manage project dependencies, compilation, testing, packaging, and deployment in a systematic manner.
+
+Maven uses a configuration file called pom.xml which contains information about the project, required libraries, plugins, and build settings. Build automation reduces manual effort and improves the efficiency of software development.
+
+
+## Requirements
+
+Java Development Kit
+
+Apache Maven
+
+Windows Operating System
+
+
+## Procedure
+
+Install Apache Maven on the system.
+
+Configure Maven environment variables properly.
+
+Open the command prompt and verify the Maven installation.
+
+Create a simple Maven project.
+
+Observe the Maven project structure and configuration files.
+
+
+## Output
+
+Apache Maven was installed and configured successfully.
+
+The Maven environment was verified successfully through the command prompt.
+
+A basic Maven project structure was created successfully.
+
+
+## Result
+
+Successfully understood the basics of Apache Maven and build automation.
