@@ -1,0 +1,57 @@
+# Day 54
+
+## Experiment Title
+
+Monitoring and Managing Jenkins Build Processes
+
+
+## Objective
+
+To study build monitoring and management features available in Jenkins.
+
+
+## Theory
+
+Jenkins provides monitoring and management features that help developers observe build execution, pipeline activity, testing stages, and deployment processes. Build logs and status reports help identify errors and troubleshoot issues during software development.
+
+Monitoring Jenkins workflows improves Continuous Integration efficiency and ensures that automated processes execute correctly.
+
+
+## Requirements
+
+Jenkins
+
+Java Development Kit
+
+GitHub Repository
+
+Windows Operating System
+
+
+## Procedure
+
+Open the Jenkins dashboard.
+
+Access the build history and pipeline execution details.
+
+Monitor build status and execution stages.
+
+Analyze build logs generated during workflow execution.
+
+Identify successful and failed stages in the pipeline.
+
+Verify the completion status of automated tasks.
+
+
+## Output
+
+Jenkins build processes were monitored successfully.
+
+Build logs and execution details were displayed correctly.
+
+Pipeline stages and workflow activity were verified successfully.
+
+
+## Result
+
+Successfully monitored and managed Jenkins build processes.
