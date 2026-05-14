@@ -1,0 +1,57 @@
+# Day 38
+
+## Experiment Title
+
+Integrating Docker with Maven Applications
+
+
+## Objective
+
+To understand how Docker can be integrated with Maven applications for containerized deployment.
+
+
+## Theory
+
+Docker and Maven can be integrated to simplify the deployment of Java applications inside containers. Maven is used to build and package the application, while Docker is used to create and manage application containers.
+
+This integration helps developers automate the process of application building and deployment. Containerized deployment improves portability, consistency, and scalability of applications across different environments.
+
+
+## Requirements
+
+Java Development Kit
+
+Apache Maven
+
+Docker Desktop
+
+Windows Operating System
+
+
+## Procedure
+
+Open the Maven project directory.
+
+Build the Java application using Maven.
+
+Create a Docker configuration file for the application.
+
+Generate a Docker image for the Maven application.
+
+Run the Docker container and verify application execution.
+
+Observe the container details using Docker Desktop.
+
+
+## Output
+
+The Maven application was packaged successfully.
+
+A Docker image for the application was created successfully.
+
+The application container executed successfully inside Docker.
+
+
+## Result
+
+Successfully integrated Docker with a Maven application for containerized deployment.
