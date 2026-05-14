@@ -1,0 +1,57 @@
+# Day 40
+
+## Experiment Title
+
+Creating a Basic Workflow in GitHub Actions
+
+
+## Objective
+
+To create and execute a basic workflow using GitHub Actions.
+
+
+## Theory
+
+A workflow in GitHub Actions is a sequence of automated steps that run when specific events occur in a repository. Workflows are defined using YAML files stored inside the .github/workflows directory.
+
+GitHub Actions workflows can automate tasks such as building applications, running tests, checking code quality, and deployment processes.
+
+
+## Requirements
+
+GitHub Account
+
+GitHub Repository
+
+GitHub Actions
+
+Windows Operating System
+
+
+## Procedure
+
+Open the GitHub repository.
+
+Create a workflows directory inside the repository.
+
+Create a YAML workflow configuration file.
+
+Define workflow triggers and execution steps.
+
+Commit and push the workflow file to the repository.
+
+Observe workflow execution inside the GitHub Actions tab.
+
+
+## Output
+
+The GitHub Actions workflow was created successfully.
+
+Workflow execution started automatically after pushing changes to the repository.
+
+The workflow completed successfully without errors.
+
+
+## Result
+
+Successfully created and executed a basic workflow using GitHub Actions.
