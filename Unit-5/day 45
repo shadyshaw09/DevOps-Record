@@ -1,0 +1,59 @@
+# Day 45
+
+## Experiment Title
+
+Deploying Docker Containers using GitHub Actions
+
+
+## Objective
+
+To understand how GitHub Actions can be used for automated Docker container deployment.
+
+
+## Theory
+
+GitHub Actions supports Continuous Deployment by automating the deployment of Docker containers after successful workflow execution. Deployment automation reduces manual effort and improves application delivery speed.
+
+Using GitHub Actions, developers can automate container deployment processes such as image pulling, container execution, and deployment verification.
+
+
+## Requirements
+
+GitHub Account
+
+GitHub Repository
+
+GitHub Actions
+
+Docker Desktop
+
+Windows Operating System
+
+
+## Procedure
+
+Open the GitHub repository.
+
+Access the GitHub Actions workflow configuration file.
+
+Configure deployment steps for Docker containers.
+
+Commit and push the workflow file to the repository.
+
+Observe workflow execution and deployment activity.
+
+Verify successful container deployment after workflow completion.
+
+
+## Output
+
+Docker container deployment was automated successfully using GitHub Actions.
+
+The workflow executed deployment steps successfully.
+
+Application containers were deployed properly after workflow execution.
+
+
+## Result
+
+Successfully performed automated Docker container deployment using GitHub Actions.
