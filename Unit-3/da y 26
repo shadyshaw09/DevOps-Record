@@ -1,0 +1,55 @@
+# Day 26
+
+## Experiment Title
+
+Deploying a Web Application using Docker Compose
+
+
+## Objective
+
+To deploy a simple web application using Docker Compose and understand service deployment in a containerized environment.
+
+
+## Theory
+
+Docker Compose can be used to deploy complete web applications by defining all required services in a single configuration file. A web application may contain multiple components such as a web server, backend service, and database.
+
+Docker Compose simplifies application deployment by automatically creating containers, networks, and service communication. It allows applications to be deployed quickly and consistently across different systems.
+
+
+## Requirements
+
+Docker Desktop
+
+Docker Compose
+
+Windows Operating System
+
+
+## Procedure
+
+Open Docker Desktop and ensure that Docker services are running properly.
+
+Create a Docker Compose configuration file for the web application.
+
+Configure the web server image and required ports.
+
+Start the application using Docker Compose.
+
+Verify that the web application is running successfully in the browser.
+
+Inspect the running containers from Docker Desktop.
+
+
+## Output
+
+The web application was deployed successfully using Docker Compose.
+
+Containers were created and executed properly.
+
+The application was accessible through the configured browser port.
+
+
+## Result
+
+Successfully deployed a web application using Docker Compose and understood the process of containerized application deployment.
