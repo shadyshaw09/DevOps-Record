@@ -1,0 +1,55 @@
+# Day 31
+
+## Experiment Title
+
+Understanding Microservices Architecture using Docker Compose
+
+
+## Objective
+
+To study the basics of microservices architecture and understand how Docker Compose supports microservice based applications.
+
+
+## Theory
+
+Microservices architecture is a software development approach in which an application is divided into multiple small and independent services. Each service performs a specific task and communicates with other services through networks.
+
+Docker Compose helps in managing microservice based applications by allowing multiple services to run together in isolated containers. It simplifies deployment, scaling, and service communication in modern application development.
+
+
+## Requirements
+
+Docker Desktop
+
+Docker Compose
+
+Windows Operating System
+
+
+## Procedure
+
+Open Docker Desktop and verify that Docker services are running properly.
+
+Create a Docker Compose configuration file containing multiple services.
+
+Configure separate containers for different application components.
+
+Start all services using Docker Compose.
+
+Verify communication between the services through Docker networking.
+
+Inspect the running containers and service configuration.
+
+
+## Output
+
+Multiple services were deployed successfully using Docker Compose.
+
+Containers communicated properly through the Docker network.
+
+Microservice based application deployment was completed successfully.
+
+
+## Result
+
+Successfully understood the basics of microservices architecture using Docker Compose.
