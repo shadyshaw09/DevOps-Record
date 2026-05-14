@@ -1,0 +1,57 @@
+# Day 41
+
+## Experiment Title
+
+Understanding Workflow Triggers in GitHub Actions
+
+
+## Objective
+
+To study different workflow triggers used in GitHub Actions for automating tasks.
+
+
+## Theory
+
+Workflow triggers are events that automatically start GitHub Actions workflows. These triggers allow workflows to run when specific activities occur inside a repository such as push events, pull requests, issue creation, or manual execution.
+
+GitHub Actions uses YAML configuration files to define workflow triggers and automation steps. Workflow automation improves development efficiency and reduces manual effort during software integration and testing.
+
+
+## Requirements
+
+GitHub Account
+
+GitHub Repository
+
+GitHub Actions
+
+Windows Operating System
+
+
+## Procedure
+
+Open the GitHub repository.
+
+Access the workflow configuration file.
+
+Study different workflow trigger events supported by GitHub Actions.
+
+Configure workflow triggers for repository events.
+
+Push changes to the repository and observe workflow execution.
+
+Verify automatic workflow activation after repository updates.
+
+
+## Output
+
+Workflow triggers were configured successfully in GitHub Actions.
+
+The workflow executed automatically after repository events occurred.
+
+Automation tasks were performed successfully through workflow triggers.
+
+
+## Result
+
+Successfully understood workflow triggers and automation in GitHub Actions.
