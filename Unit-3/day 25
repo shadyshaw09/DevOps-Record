@@ -1,0 +1,55 @@
+# Day 25
+
+## Experiment Title
+
+Using Environment Variables in Docker Compose
+
+
+## Objective
+
+To understand how environment variables are configured and used in Docker Compose applications.
+
+
+## Theory
+
+Environment variables are used to configure application settings dynamically without modifying the application source code. Docker Compose allows environment variables to be defined directly inside the docker-compose.yml file.
+
+These variables are commonly used for database credentials, application ports, usernames, passwords, and other configuration settings. Environment variables make containerized applications more flexible and easier to manage.
+
+
+## Requirements
+
+Docker Desktop
+
+Docker Compose
+
+Windows Operating System
+
+
+## Procedure
+
+Open Docker Desktop and verify that Docker services are running properly.
+
+Create a Docker Compose configuration file with environment variable settings.
+
+Configure the required variables for the application service.
+
+Start the Docker Compose application.
+
+Verify that the container initializes successfully using the configured variables.
+
+Check the running container configuration and logs.
+
+
+## Output
+
+Environment variables were successfully configured in the Docker Compose application.
+
+The application container initialized correctly using the provided configuration values.
+
+Docker Compose managed the environment settings successfully.
+
+
+## Result
+
+Successfully learned how to configure and use environment variables in Docker Compose applications.
