@@ -1,0 +1,57 @@
+# Day 42
+
+## Experiment Title
+
+Automating Application Build Process using GitHub Actions
+
+
+## Objective
+
+To automate the application build process using GitHub Actions workflows.
+
+
+## Theory
+
+GitHub Actions allows developers to automate software development tasks such as building applications, running tests, and deployment. Build automation ensures that applications are compiled and verified automatically whenever code changes are pushed to the repository.
+
+Automation reduces manual effort, improves consistency, and helps developers identify issues during the development process.
+
+
+## Requirements
+
+GitHub Account
+
+GitHub Repository
+
+GitHub Actions
+
+Windows Operating System
+
+
+## Procedure
+
+Open the GitHub repository.
+
+Create or modify the workflow configuration file.
+
+Configure build steps for the application inside the workflow.
+
+Commit and push the workflow configuration to the repository.
+
+Observe the automatic build process execution in GitHub Actions.
+
+Verify the build status and workflow logs.
+
+
+## Output
+
+The application build process was automated successfully using GitHub Actions.
+
+Workflow execution completed successfully after repository updates.
+
+Build logs and execution details were displayed correctly.
+
+
+## Result
+
+Successfully automated the application build process using GitHub Actions.
