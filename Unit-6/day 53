@@ -1,0 +1,59 @@
+# Day 53
+
+## Experiment Title
+
+Deploying Applications using Jenkins
+
+
+## Objective
+
+To understand how Jenkins can be used for automated application deployment.
+
+
+## Theory
+
+Jenkins supports Continuous Deployment by automating the process of application delivery after successful builds and testing. Deployment automation reduces manual work and improves software delivery speed.
+
+Jenkins pipelines can execute deployment steps automatically and help maintain consistent deployment processes across different environments.
+
+
+## Requirements
+
+Jenkins
+
+Java Development Kit
+
+GitHub Repository
+
+Docker Desktop
+
+Windows Operating System
+
+
+## Procedure
+
+Open the Jenkins dashboard.
+
+Access the Jenkins deployment pipeline project.
+
+Configure deployment stages inside the pipeline.
+
+Save the pipeline configuration.
+
+Execute the deployment process through Jenkins.
+
+Verify successful application deployment and execution.
+
+
+## Output
+
+Application deployment was completed successfully using Jenkins.
+
+Pipeline execution completed successfully during deployment stages.
+
+Deployment logs and execution details were displayed correctly.
+
+
+## Result
+
+Successfully automated application deployment using Jenkins.
