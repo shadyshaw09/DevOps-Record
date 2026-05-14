@@ -1,0 +1,53 @@
+# Day 37
+
+## Experiment Title
+
+Understanding Maven Build Lifecycle
+
+
+## Objective
+
+To study the different phases of the Maven build lifecycle and understand their purpose in application development.
+
+
+## Theory
+
+The Maven build lifecycle consists of a sequence of phases used to build and manage applications systematically. Common phases include validate, compile, test, package, install, and deploy.
+
+Each phase performs a specific task in the software development process. Maven executes these phases automatically in the correct order, which simplifies application development and reduces manual work.
+
+
+## Requirements
+
+Java Development Kit
+
+Apache Maven
+
+Windows Operating System
+
+
+## Procedure
+
+Open the Maven project directory.
+
+Study the different phases of the Maven build lifecycle.
+
+Execute Maven lifecycle commands for the project.
+
+Observe the sequence of operations performed during execution.
+
+Verify the generated build files and installation process.
+
+
+## Output
+
+The Maven build lifecycle phases were executed successfully.
+
+Application compilation, testing, and packaging processes completed properly.
+
+Build files and project artifacts were generated successfully.
+
+
+## Result
+
+Successfully understood the Maven build lifecycle and its phases in application development.
