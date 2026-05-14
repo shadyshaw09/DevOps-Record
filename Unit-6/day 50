@@ -1,0 +1,57 @@
+# Day 50
+
+## Experiment Title
+
+Creating Jenkins Pipelines for Automation
+
+
+## Objective
+
+To understand how Jenkins pipelines are created and used for workflow automation.
+
+
+## Theory
+
+Jenkins pipelines are a series of automated steps used to define Continuous Integration and deployment workflows. Pipelines help developers automate tasks such as building, testing, and deploying applications.
+
+Jenkins pipelines can be written using a Jenkinsfile which contains the pipeline stages and execution instructions. Pipeline automation improves development speed and reduces manual configuration.
+
+
+## Requirements
+
+Jenkins
+
+Java Development Kit
+
+GitHub Repository
+
+Windows Operating System
+
+
+## Procedure
+
+Open the Jenkins dashboard.
+
+Create a new pipeline project in Jenkins.
+
+Configure the pipeline settings and execution stages.
+
+Create a Jenkinsfile for defining the pipeline workflow.
+
+Save the pipeline configuration.
+
+Execute the pipeline and observe the automation stages.
+
+
+## Output
+
+The Jenkins pipeline was created successfully.
+
+Pipeline execution completed successfully through different stages.
+
+Automation workflow details were displayed correctly in Jenkins.
+
+
+## Result
+
+Successfully created and executed Jenkins pipelines for automation.
