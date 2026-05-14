@@ -1,0 +1,57 @@
+# Day 51
+
+## Experiment Title
+
+Integrating GitHub with Jenkins
+
+
+## Objective
+
+To understand how GitHub repositories can be integrated with Jenkins for Continuous Integration.
+
+
+## Theory
+
+Jenkins can integrate with GitHub repositories to automate software development workflows. Whenever code changes are pushed to GitHub, Jenkins can automatically trigger build and testing processes.
+
+This integration improves development efficiency and ensures faster feedback during application development. GitHub integration also helps automate Continuous Integration tasks effectively.
+
+
+## Requirements
+
+Jenkins
+
+GitHub Repository
+
+Java Development Kit
+
+Windows Operating System
+
+
+## Procedure
+
+Open the Jenkins dashboard.
+
+Create or configure a Jenkins project.
+
+Connect the GitHub repository with Jenkins.
+
+Configure repository access and build triggers.
+
+Save the project configuration.
+
+Push changes to the GitHub repository and observe Jenkins build execution.
+
+
+## Output
+
+GitHub repository integration with Jenkins was completed successfully.
+
+Jenkins automatically detected repository changes and executed the build process.
+
+Build logs and execution details were displayed successfully.
+
+
+## Result
+
+Successfully integrated GitHub repositories with Jenkins for Continuous Integration.
