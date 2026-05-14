@@ -1,0 +1,59 @@
+# Day 44
+
+## Experiment Title
+
+Building Docker Images using GitHub Actions
+
+
+## Objective
+
+To understand how Docker images can be built automatically using GitHub Actions workflows.
+
+
+## Theory
+
+GitHub Actions can automate the process of creating Docker images whenever changes are pushed to a repository. This process helps developers maintain updated container images without manual intervention.
+
+Docker image automation improves development efficiency and supports Continuous Integration practices. GitHub Actions workflows can execute Docker commands and generate container images automatically during workflow execution.
+
+
+## Requirements
+
+GitHub Account
+
+GitHub Repository
+
+GitHub Actions
+
+Docker Desktop
+
+Windows Operating System
+
+
+## Procedure
+
+Open the GitHub repository.
+
+Access the workflow configuration file.
+
+Configure Docker image build steps inside the workflow.
+
+Commit and push the workflow file to the repository.
+
+Observe the workflow execution process in GitHub Actions.
+
+Verify successful Docker image creation.
+
+
+## Output
+
+Docker image build automation was configured successfully.
+
+GitHub Actions executed the Docker build process automatically.
+
+The Docker image was created successfully during workflow execution.
+
+
+## Result
+
+Successfully automated Docker image creation using GitHub Actions.
