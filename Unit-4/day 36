@@ -1,0 +1,55 @@
+# Day 36
+
+## Experiment Title
+
+Managing Dependencies in Maven Projects
+
+
+## Objective
+
+To understand how dependencies are managed in Maven applications using the pom.xml file.
+
+
+## Theory
+
+Dependencies are external libraries required for application development and execution. Maven automatically downloads and manages these libraries through the pom.xml configuration file.
+
+Developers can add dependency information inside the pom.xml file, and Maven retrieves the required files from online repositories. Dependency management simplifies application development and reduces manual library configuration.
+
+
+## Requirements
+
+Java Development Kit
+
+Apache Maven
+
+Windows Operating System
+
+
+## Procedure
+
+Open the Maven project directory.
+
+Access the pom.xml configuration file.
+
+Add dependency information for the required library.
+
+Save the project configuration.
+
+Run the Maven build process and observe dependency downloading.
+
+Verify that the dependency was added successfully to the project.
+
+
+## Output
+
+Dependencies were added successfully to the Maven project.
+
+Maven automatically downloaded the required libraries.
+
+The application build process completed successfully after dependency integration.
+
+
+## Result
+
+Successfully understood dependency management in Maven projects using the pom.xml configuration file.
