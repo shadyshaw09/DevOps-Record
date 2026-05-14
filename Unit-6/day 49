@@ -1,0 +1,57 @@
+# Day 49
+
+## Experiment Title
+
+Building Applications using Jenkins
+
+
+## Objective
+
+To understand how Jenkins is used to automate application build processes.
+
+
+## Theory
+
+Jenkins allows developers to automate software builds through jobs and pipelines. Automated builds help ensure that application code is compiled and verified regularly without manual intervention.
+
+Jenkins can integrate with source code repositories and automatically trigger builds whenever changes are pushed to the project. Build automation improves software quality and development efficiency.
+
+
+## Requirements
+
+Jenkins
+
+Java Development Kit
+
+GitHub Repository
+
+Windows Operating System
+
+
+## Procedure
+
+Open the Jenkins dashboard.
+
+Create or open an existing Jenkins project.
+
+Configure source code repository settings.
+
+Add build steps for application compilation.
+
+Save the project configuration.
+
+Execute the build process and monitor build activity.
+
+
+## Output
+
+The application build process executed successfully in Jenkins.
+
+Build details and execution logs were displayed correctly.
+
+The application was compiled successfully through Jenkins automation.
+
+
+## Result
+
+Successfully automated the application build process using Jenkins.
