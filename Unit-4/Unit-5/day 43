@@ -1,0 +1,57 @@
+# Day 43
+
+## Experiment Title
+
+Running Automated Tests using GitHub Actions
+
+
+## Objective
+
+To understand how automated testing can be performed using GitHub Actions workflows.
+
+
+## Theory
+
+Automated testing is an important part of Continuous Integration. GitHub Actions allows developers to execute tests automatically whenever code changes are pushed to the repository.
+
+Testing workflows help identify bugs and errors during the development process. Automated testing improves software reliability and ensures that application functionality is verified regularly.
+
+
+## Requirements
+
+GitHub Account
+
+GitHub Repository
+
+GitHub Actions
+
+Windows Operating System
+
+
+## Procedure
+
+Open the GitHub repository.
+
+Access the workflow configuration file.
+
+Configure testing steps inside the GitHub Actions workflow.
+
+Commit and push the updated workflow file.
+
+Observe workflow execution and testing activity.
+
+Verify the test results displayed in GitHub Actions.
+
+
+## Output
+
+Automated testing was executed successfully using GitHub Actions.
+
+Workflow execution completed successfully after repository updates.
+
+Test reports and workflow logs were generated successfully.
+
+
+## Result
+
+Successfully performed automated testing using GitHub Actions workflows.
